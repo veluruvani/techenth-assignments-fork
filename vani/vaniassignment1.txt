@@ -27,3 +27,4 @@ git checkout -b <branch_name>
 git merge
 git re-base
 git orgin main
+git conflict
